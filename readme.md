@@ -1,1 +1,1 @@
-To get the livestream video url from youtube you’ll need to use Google API-key and channel URL.
+Чтобы получить livestream video url с YouTube, необходимо использовать API-ключ Google и URL ютуб-канала
